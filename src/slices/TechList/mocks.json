@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "hole",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"tech_color",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#a24f93",
+							"type": "Color"
+						}
+					],
+					[
+						"text_name",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "rear",
+							"type": "Text"
+						}
+					]
+				]
+			}
+		]
+	}
+]
